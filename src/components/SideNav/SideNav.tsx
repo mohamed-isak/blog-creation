@@ -21,7 +21,7 @@ const navLinkGroups: INavLinkGroup[] = [
     links: [
       {
         name: "Home",
-        url: "http://example.com",
+        url: "/",
         key: "key1",
         isExpanded: true,
         target: "_blank",
@@ -33,7 +33,7 @@ const navLinkGroups: INavLinkGroup[] = [
       },
       {
         name: "Manage Blog",
-        url: "http://msn.com",
+        url: "/blogList",
         key: "key3",
       },
     ],

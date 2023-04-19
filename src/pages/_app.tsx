@@ -3,6 +3,7 @@ import "@/styles/globals.css";
 import "@/styles/Layout/_header.scss";
 import "@/styles/Layout/_layout.scss";
 import "@/styles/Layout/_sidenav.scss";
+import "@/styles/Page/blogListPage.scss";
 import type { AppProps } from "next/app";
 import { initializeIcons } from "@fluentui/react/lib/Icons";
 
